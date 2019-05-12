@@ -16,6 +16,8 @@ This is a simple web project ...
 
 ## How to contribute
 
+Please fokr this repo and then ...
+
 ### Copyright
 
 2019 Git training
