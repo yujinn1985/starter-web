@@ -15,3 +15,7 @@ As stated above, the main purpose ...
 This is a simple web project ...
 
 ## How to contribute
+
+### Copyright
+
+2019 Git training
